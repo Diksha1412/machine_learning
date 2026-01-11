@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+
+# ML large files
+*.pkl
+*.joblib
+*.h5
+*.csv
+*.zip
